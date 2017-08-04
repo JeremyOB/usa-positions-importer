@@ -18,6 +18,8 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
+ define( 'PLUGIN_DIR', plugin_dir_path( __FILE__ ));
+
 function import_feed_items()
 {
 // 	include( plugin_dir_path( __FILE__ ) . 'debug/');
@@ -146,15 +148,30 @@ if ( ! function_exists('write_log')) {
 
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------
+function write_to_log(){
 
+$log = WP_PLUGIN_DIR."/usa-positions-import/log.txt"; 
 
-// function script_finished() {
-// 	add_option('my_script_complete', 1);
-// 	die("Script finished.");
-// }
+if (! file_exists($log)) {//check to see if the log file exists in the plugin dir
+$myfile = fopen(PLUGIN_DIR."log.txt", "w");// creates log file in plugin dir
+write_log('log.txt created');
+ }
+
+// Open the file to get existing content
+$current = file_get_contents($log);
+
+// Append a new person to the file
+$current .= date('l jS \of F Y h:i:s A')."\n";
+
+// Write the contents back to the file
+file_put_contents($log, $current);
+ write_log('log made');
+}
+
 
 
 
 // add_action('init', 'delet_all_positions',10);
-add_action('init', 'import_feed_items', 10);
+// add_action('init', 'import_feed_items', 10);
+add_action('init', 'write_to_log', 10);
 // add_action('init', 'script_finished', 20);
