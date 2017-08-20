@@ -1,0 +1,1466 @@
+[18-Aug-2017 04:41:41] import_feed_items called
+[18-Aug-2017 04:41:41] ================================================== aviation - projects =======================================================
+[18-Aug-2017 04:41:41] aviation - projects#0
+[18-Aug-2017 04:41:41] content not listed. Title Avionics Technician - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#1
+[18-Aug-2017 04:41:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#2
+[18-Aug-2017 04:41:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#3
+[18-Aug-2017 04:41:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#4
+[18-Aug-2017 04:41:41] content not listed. Title Pilot - NTM Aviation
+[18-Aug-2017 04:41:41] 5 positions imported
+[18-Aug-2017 04:41:41] import_feed_items called
+[18-Aug-2017 04:41:41] ================================================== aviation - projects =======================================================
+[18-Aug-2017 04:41:41] aviation - projects#0
+[18-Aug-2017 04:41:41] content not listed. Title Avionics Technician - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#1
+[18-Aug-2017 04:41:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#2
+[18-Aug-2017 04:41:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#3
+[18-Aug-2017 04:41:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[18-Aug-2017 04:41:41] aviation - projects#4
+[18-Aug-2017 04:41:41] content not listed. Title Pilot - NTM Aviation
+[18-Aug-2017 04:41:41] 5 positions imported
+[19-Aug-2017 12:21:43] import_feed_items called
+[19-Aug-2017 12:21:44] import_feed_items called
+[19-Aug-2017 12:21:44] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:21:44] aviation - projects#0
+[19-Aug-2017 12:21:44] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#1
+[19-Aug-2017 12:21:44] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#2
+[19-Aug-2017 12:21:44] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#3
+[19-Aug-2017 12:21:44] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#4
+[19-Aug-2017 12:21:44] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:21:44] 5 positions imported
+[19-Aug-2017 12:21:44] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:21:44] aviation - projects#0
+[19-Aug-2017 12:21:44] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#1
+[19-Aug-2017 12:21:44] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#2
+[19-Aug-2017 12:21:44] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#3
+[19-Aug-2017 12:21:44] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:21:44] aviation - projects#4
+[19-Aug-2017 12:21:44] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:21:44] 5 positions imported
+[19-Aug-2017 12:23:42] import_feed_items called
+[19-Aug-2017 12:23:42] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:23:42] aviation - projects#0
+[19-Aug-2017 12:23:42] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:23:42] aviation - projects#1
+[19-Aug-2017 12:23:42] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:23:42] aviation - projects#2
+[19-Aug-2017 12:23:42] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:23:42] aviation - projects#3
+[19-Aug-2017 12:23:42] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:23:42] aviation - projects#4
+[19-Aug-2017 12:23:42] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:23:42] 5 positions imported
+[19-Aug-2017 12:25:42] import_feed_items called
+[19-Aug-2017 12:25:42] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:25:42] aviation - projects#0
+[19-Aug-2017 12:25:42] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:25:42] aviation - projects#1
+[19-Aug-2017 12:25:42] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:25:42] aviation - projects#2
+[19-Aug-2017 12:25:42] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:25:42] aviation - projects#3
+[19-Aug-2017 12:25:42] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:25:42] aviation - projects#4
+[19-Aug-2017 12:25:42] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:25:42] 5 positions imported
+[19-Aug-2017 12:27:43] import_feed_items called
+[19-Aug-2017 12:27:43] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:27:43] aviation - projects#0
+[19-Aug-2017 12:27:43] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:27:43] aviation - projects#1
+[19-Aug-2017 12:27:43] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:27:43] aviation - projects#2
+[19-Aug-2017 12:27:43] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:27:43] aviation - projects#3
+[19-Aug-2017 12:27:43] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:27:43] aviation - projects#4
+[19-Aug-2017 12:27:43] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:27:43] 5 positions imported
+[19-Aug-2017 12:29:44] import_feed_items called
+[19-Aug-2017 12:29:44] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:29:44] aviation - projects#0
+[19-Aug-2017 12:29:44] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:29:44] aviation - projects#1
+[19-Aug-2017 12:29:44] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:29:44] aviation - projects#2
+[19-Aug-2017 12:29:44] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:29:44] aviation - projects#3
+[19-Aug-2017 12:29:44] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:29:44] aviation - projects#4
+[19-Aug-2017 12:29:44] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:29:44] 5 positions imported
+[19-Aug-2017 12:31:45] import_feed_items called
+[19-Aug-2017 12:31:45] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:31:45] aviation - projects#0
+[19-Aug-2017 12:31:45] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:31:45] aviation - projects#1
+[19-Aug-2017 12:31:45] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:31:45] aviation - projects#2
+[19-Aug-2017 12:31:45] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:31:45] aviation - projects#3
+[19-Aug-2017 12:31:45] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:31:45] aviation - projects#4
+[19-Aug-2017 12:31:45] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:31:45] 5 positions imported
+[19-Aug-2017 12:33:46] import_feed_items called
+[19-Aug-2017 12:33:46] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:33:46] aviation - projects#0
+[19-Aug-2017 12:33:46] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:33:46] aviation - projects#1
+[19-Aug-2017 12:33:46] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:33:46] aviation - projects#2
+[19-Aug-2017 12:33:46] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:33:46] aviation - projects#3
+[19-Aug-2017 12:33:46] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:33:46] aviation - projects#4
+[19-Aug-2017 12:33:46] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:33:46] 5 positions imported
+[19-Aug-2017 12:35:47] import_feed_items called
+[19-Aug-2017 12:35:47] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:35:47] aviation - projects#0
+[19-Aug-2017 12:35:47] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:35:47] aviation - projects#1
+[19-Aug-2017 12:35:47] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:35:47] aviation - projects#2
+[19-Aug-2017 12:35:47] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:35:47] aviation - projects#3
+[19-Aug-2017 12:35:47] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:35:47] aviation - projects#4
+[19-Aug-2017 12:35:47] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:35:47] 5 positions imported
+[19-Aug-2017 12:36:13] import_feed_items called
+[19-Aug-2017 12:36:13] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:36:13] aviation - projects#0
+[19-Aug-2017 12:36:13] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:36:13] aviation - projects#1
+[19-Aug-2017 12:36:13] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:36:13] aviation - projects#2
+[19-Aug-2017 12:36:13] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:36:13] aviation - projects#3
+[19-Aug-2017 12:36:13] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:36:13] aviation - projects#4
+[19-Aug-2017 12:36:13] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:36:13] 5 positions imported
+[19-Aug-2017 12:36:28] import_feed_items called
+[19-Aug-2017 12:36:28] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:36:28] aviation - projects#0
+[19-Aug-2017 12:36:28] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:36:28] aviation - projects#1
+[19-Aug-2017 12:36:28] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:36:28] aviation - projects#2
+[19-Aug-2017 12:36:28] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:36:28] aviation - projects#3
+[19-Aug-2017 12:36:28] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:36:28] aviation - projects#4
+[19-Aug-2017 12:36:28] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:36:28] 5 positions imported
+[19-Aug-2017 12:38:29] import_feed_items called
+[19-Aug-2017 12:38:29] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:38:29] aviation - projects#0
+[19-Aug-2017 12:38:29] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:38:29] aviation - projects#1
+[19-Aug-2017 12:38:29] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:38:29] aviation - projects#2
+[19-Aug-2017 12:38:29] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:38:29] aviation - projects#3
+[19-Aug-2017 12:38:29] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:38:29] aviation - projects#4
+[19-Aug-2017 12:38:29] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:38:29] 5 positions imported
+[19-Aug-2017 12:40:30] import_feed_items called
+[19-Aug-2017 12:40:30] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:40:30] aviation - projects#0
+[19-Aug-2017 12:40:30] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:40:30] aviation - projects#1
+[19-Aug-2017 12:40:30] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:40:30] aviation - projects#2
+[19-Aug-2017 12:40:30] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:40:30] aviation - projects#3
+[19-Aug-2017 12:40:30] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:40:30] aviation - projects#4
+[19-Aug-2017 12:40:30] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:40:30] 5 positions imported
+[19-Aug-2017 12:42:31] import_feed_items called
+[19-Aug-2017 12:42:31] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:42:31] aviation - projects#0
+[19-Aug-2017 12:42:31] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:42:31] aviation - projects#1
+[19-Aug-2017 12:42:31] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:42:31] aviation - projects#2
+[19-Aug-2017 12:42:31] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:42:31] aviation - projects#3
+[19-Aug-2017 12:42:31] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:42:31] aviation - projects#4
+[19-Aug-2017 12:42:31] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:42:31] 5 positions imported
+[19-Aug-2017 12:44:32] import_feed_items called
+[19-Aug-2017 12:44:32] ================================================== aviation - projects =======================================================
+[19-Aug-2017 12:44:32] aviation - projects#0
+[19-Aug-2017 12:44:32] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 12:44:32] aviation - projects#1
+[19-Aug-2017 12:44:32] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 12:44:32] aviation - projects#2
+[19-Aug-2017 12:44:32] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 12:44:32] aviation - projects#3
+[19-Aug-2017 12:44:32] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 12:44:32] aviation - projects#4
+[19-Aug-2017 12:44:32] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 12:44:32] 5 positions imported
+[19-Aug-2017 01:16:41] import_feed_items called
+[19-Aug-2017 01:16:41] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:16:41] aviation-projects#0
+[19-Aug-2017 01:16:41] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:16:41] aviation-projects#1
+[19-Aug-2017 01:16:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:16:41] aviation-projects#2
+[19-Aug-2017 01:16:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:16:41] aviation-projects#3
+[19-Aug-2017 01:16:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:16:41] aviation-projects#4
+[19-Aug-2017 01:16:41] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:16:41] 5 positions imported
+[19-Aug-2017 01:16:57] import_feed_items called
+[19-Aug-2017 01:16:57] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:16:57] aviation-projects#0
+[19-Aug-2017 01:16:57] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:16:57] aviation-projects#1
+[19-Aug-2017 01:16:57] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:16:57] aviation-projects#2
+[19-Aug-2017 01:16:57] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:16:57] aviation-projects#3
+[19-Aug-2017 01:16:57] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:16:57] aviation-projects#4
+[19-Aug-2017 01:16:57] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:16:58] 5 positions imported
+[19-Aug-2017 01:17:00] import_feed_items called
+[19-Aug-2017 01:17:00] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:17:00] aviation-projects#0
+[19-Aug-2017 01:17:00] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:17:00] aviation-projects#1
+[19-Aug-2017 01:17:00] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:17:00] aviation-projects#2
+[19-Aug-2017 01:17:00] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:17:00] aviation-projects#3
+[19-Aug-2017 01:17:00] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:17:00] aviation-projects#4
+[19-Aug-2017 01:17:00] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:17:00] 5 positions imported
+[19-Aug-2017 01:17:02] import_feed_items called
+[19-Aug-2017 01:17:02] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:17:02] aviation-projects#0
+[19-Aug-2017 01:17:02] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:17:02] aviation-projects#1
+[19-Aug-2017 01:17:02] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:17:02] aviation-projects#2
+[19-Aug-2017 01:17:02] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:17:02] aviation-projects#3
+[19-Aug-2017 01:17:02] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:17:02] aviation-projects#4
+[19-Aug-2017 01:17:02] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:17:02] 5 positions imported
+[19-Aug-2017 01:17:07] import_feed_items called
+[19-Aug-2017 01:17:07] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:17:07] aviation-projects#0
+[19-Aug-2017 01:17:07] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:17:07] aviation-projects#1
+[19-Aug-2017 01:17:07] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:17:07] aviation-projects#2
+[19-Aug-2017 01:17:07] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:17:07] aviation-projects#3
+[19-Aug-2017 01:17:07] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:17:07] aviation-projects#4
+[19-Aug-2017 01:17:07] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:17:07] 5 positions imported
+[19-Aug-2017 01:17:25] import_feed_items called
+[19-Aug-2017 01:17:25] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:17:25] aviation-projects#0
+[19-Aug-2017 01:17:25] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:17:25] aviation-projects#1
+[19-Aug-2017 01:17:25] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:17:25] aviation-projects#2
+[19-Aug-2017 01:17:25] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:17:25] aviation-projects#3
+[19-Aug-2017 01:17:25] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:17:25] aviation-projects#4
+[19-Aug-2017 01:17:25] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:17:25] 5 positions imported
+[19-Aug-2017 01:17:40] import_feed_items called
+[19-Aug-2017 01:17:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:17:40] aviation-projects#0
+[19-Aug-2017 01:17:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:17:40] aviation-projects#1
+[19-Aug-2017 01:17:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:17:40] aviation-projects#2
+[19-Aug-2017 01:17:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:17:40] aviation-projects#3
+[19-Aug-2017 01:17:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:17:40] aviation-projects#4
+[19-Aug-2017 01:17:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:17:40] 5 positions imported
+[19-Aug-2017 01:17:55] 258 positions deleted
+[19-Aug-2017 01:17:55] 32 positions deleted
+[19-Aug-2017 01:17:56] 0 positions deleted
+[19-Aug-2017 01:18:11] 0 positions deleted
+[19-Aug-2017 01:18:18] import_feed_items called
+[19-Aug-2017 01:18:18] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:18] aviation-projects#0
+[19-Aug-2017 01:18:18] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:18] aviation-projects#1
+[19-Aug-2017 01:18:18] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:18] aviation-projects#2
+[19-Aug-2017 01:18:18] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:18] aviation-projects#3
+[19-Aug-2017 01:18:18] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:18] aviation-projects#4
+[19-Aug-2017 01:18:18] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:18] 5 positions imported
+[19-Aug-2017 01:18:19] import_feed_items called
+[19-Aug-2017 01:18:19] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:19] aviation-projects#0
+[19-Aug-2017 01:18:19] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:19] aviation-projects#1
+[19-Aug-2017 01:18:19] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:19] aviation-projects#2
+[19-Aug-2017 01:18:19] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:19] aviation-projects#3
+[19-Aug-2017 01:18:19] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:19] aviation-projects#4
+[19-Aug-2017 01:18:19] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:19] 5 positions imported
+[19-Aug-2017 01:18:21] import_feed_items called
+[19-Aug-2017 01:18:21] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:21] aviation-projects#0
+[19-Aug-2017 01:18:21] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:21] aviation-projects#1
+[19-Aug-2017 01:18:21] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:21] aviation-projects#2
+[19-Aug-2017 01:18:21] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:21] aviation-projects#3
+[19-Aug-2017 01:18:21] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:21] aviation-projects#4
+[19-Aug-2017 01:18:21] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:21] 5 positions imported
+[19-Aug-2017 01:18:22] import_feed_items called
+[19-Aug-2017 01:18:22] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:22] aviation-projects#0
+[19-Aug-2017 01:18:22] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:22] aviation-projects#1
+[19-Aug-2017 01:18:22] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:22] aviation-projects#2
+[19-Aug-2017 01:18:22] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:22] aviation-projects#3
+[19-Aug-2017 01:18:22] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:22] aviation-projects#4
+[19-Aug-2017 01:18:22] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:22] 5 positions imported
+[19-Aug-2017 01:18:25] import_feed_items called
+[19-Aug-2017 01:18:25] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:25] aviation-projects#0
+[19-Aug-2017 01:18:25] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:25] aviation-projects#1
+[19-Aug-2017 01:18:25] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:25] aviation-projects#2
+[19-Aug-2017 01:18:25] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:25] aviation-projects#3
+[19-Aug-2017 01:18:25] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:25] aviation-projects#4
+[19-Aug-2017 01:18:25] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:25] 5 positions imported
+[19-Aug-2017 01:18:26] import_feed_items called
+[19-Aug-2017 01:18:26] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:26] aviation-projects#0
+[19-Aug-2017 01:18:26] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:26] aviation-projects#1
+[19-Aug-2017 01:18:26] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:26] aviation-projects#2
+[19-Aug-2017 01:18:26] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:26] aviation-projects#3
+[19-Aug-2017 01:18:26] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:26] aviation-projects#4
+[19-Aug-2017 01:18:26] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:26] 5 positions imported
+[19-Aug-2017 01:18:28] import_feed_items called
+[19-Aug-2017 01:18:28] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:28] aviation-projects#0
+[19-Aug-2017 01:18:28] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#1
+[19-Aug-2017 01:18:28] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#2
+[19-Aug-2017 01:18:28] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#3
+[19-Aug-2017 01:18:28] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#4
+[19-Aug-2017 01:18:28] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:28] 5 positions imported
+[19-Aug-2017 01:18:28] import_feed_items called
+[19-Aug-2017 01:18:28] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:28] aviation-projects#0
+[19-Aug-2017 01:18:28] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#1
+[19-Aug-2017 01:18:28] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#2
+[19-Aug-2017 01:18:28] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#3
+[19-Aug-2017 01:18:28] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:28] aviation-projects#4
+[19-Aug-2017 01:18:28] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:28] 5 positions imported
+[19-Aug-2017 01:18:30] import_feed_items called
+[19-Aug-2017 01:18:30] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:30] aviation-projects#0
+[19-Aug-2017 01:18:30] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:30] aviation-projects#1
+[19-Aug-2017 01:18:30] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:30] aviation-projects#2
+[19-Aug-2017 01:18:30] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:30] aviation-projects#3
+[19-Aug-2017 01:18:30] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:30] aviation-projects#4
+[19-Aug-2017 01:18:30] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:30] 5 positions imported
+[19-Aug-2017 01:18:31] import_feed_items called
+[19-Aug-2017 01:18:31] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:31] aviation-projects#0
+[19-Aug-2017 01:18:31] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:31] aviation-projects#1
+[19-Aug-2017 01:18:31] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:31] aviation-projects#2
+[19-Aug-2017 01:18:31] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:31] aviation-projects#3
+[19-Aug-2017 01:18:31] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:31] aviation-projects#4
+[19-Aug-2017 01:18:31] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:31] 5 positions imported
+[19-Aug-2017 01:18:46] import_feed_items called
+[19-Aug-2017 01:18:46] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:18:46] aviation-projects#0
+[19-Aug-2017 01:18:46] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:18:46] aviation-projects#1
+[19-Aug-2017 01:18:46] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:18:46] aviation-projects#2
+[19-Aug-2017 01:18:46] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:18:46] aviation-projects#3
+[19-Aug-2017 01:18:46] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:18:46] aviation-projects#4
+[19-Aug-2017 01:18:46] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:18:46] 5 positions imported
+[19-Aug-2017 01:20:46] import_feed_items called
+[19-Aug-2017 01:20:46] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:20:46] aviation-projects#0
+[19-Aug-2017 01:20:46] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:20:46] aviation-projects#1
+[19-Aug-2017 01:20:46] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:20:46] aviation-projects#2
+[19-Aug-2017 01:20:46] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:20:46] aviation-projects#3
+[19-Aug-2017 01:20:46] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:20:46] aviation-projects#4
+[19-Aug-2017 01:20:46] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:20:46] 5 positions imported
+[19-Aug-2017 01:35:18] import_feed_items called
+[19-Aug-2017 01:35:18] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:35:18] aviation-projects#0
+[19-Aug-2017 01:35:18] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:35:18] aviation-projects#1
+[19-Aug-2017 01:35:18] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:35:18] aviation-projects#2
+[19-Aug-2017 01:35:18] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:35:18] aviation-projects#3
+[19-Aug-2017 01:35:18] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:35:18] aviation-projects#4
+[19-Aug-2017 01:35:18] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:35:18] 5 positions imported
+[19-Aug-2017 01:35:19] import_feed_items called
+[19-Aug-2017 01:35:19] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:35:19] aviation-projects#0
+[19-Aug-2017 01:35:19] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:35:19] aviation-projects#1
+[19-Aug-2017 01:35:19] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:35:19] aviation-projects#2
+[19-Aug-2017 01:35:19] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:35:19] aviation-projects#3
+[19-Aug-2017 01:35:19] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:35:19] aviation-projects#4
+[19-Aug-2017 01:35:19] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:35:19] 5 positions imported
+[19-Aug-2017 01:37:18] import_feed_items called
+[19-Aug-2017 01:37:18] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:37:18] aviation-projects#0
+[19-Aug-2017 01:37:18] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:37:18] aviation-projects#1
+[19-Aug-2017 01:37:18] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:37:18] aviation-projects#2
+[19-Aug-2017 01:37:18] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:37:18] aviation-projects#3
+[19-Aug-2017 01:37:18] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:37:18] aviation-projects#4
+[19-Aug-2017 01:37:18] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:37:18] 5 positions imported
+[19-Aug-2017 01:39:18] import_feed_items called
+[19-Aug-2017 01:39:18] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:39:18] aviation-projects#0
+[19-Aug-2017 01:39:18] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:39:18] aviation-projects#1
+[19-Aug-2017 01:39:18] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:39:18] aviation-projects#2
+[19-Aug-2017 01:39:18] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:39:18] aviation-projects#3
+[19-Aug-2017 01:39:18] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:39:18] aviation-projects#4
+[19-Aug-2017 01:39:18] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:39:18] 5 positions imported
+[19-Aug-2017 01:41:01] import_feed_items called
+[19-Aug-2017 01:41:01] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:01] aviation-projects#0
+[19-Aug-2017 01:41:01] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:01] aviation-projects#1
+[19-Aug-2017 01:41:01] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:01] aviation-projects#2
+[19-Aug-2017 01:41:01] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:01] aviation-projects#3
+[19-Aug-2017 01:41:01] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:02] aviation-projects#4
+[19-Aug-2017 01:41:02] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:02] 5 positions imported
+[19-Aug-2017 01:41:03] import_feed_items called
+[19-Aug-2017 01:41:03] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:03] aviation-projects#0
+[19-Aug-2017 01:41:03] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:03] aviation-projects#1
+[19-Aug-2017 01:41:03] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:03] aviation-projects#2
+[19-Aug-2017 01:41:03] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:03] aviation-projects#3
+[19-Aug-2017 01:41:03] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:03] aviation-projects#4
+[19-Aug-2017 01:41:03] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:03] 5 positions imported
+[19-Aug-2017 01:41:04] import_feed_items called
+[19-Aug-2017 01:41:04] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:04] aviation-projects#0
+[19-Aug-2017 01:41:04] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:04] aviation-projects#1
+[19-Aug-2017 01:41:04] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:04] aviation-projects#2
+[19-Aug-2017 01:41:04] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:04] aviation-projects#3
+[19-Aug-2017 01:41:04] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:04] aviation-projects#4
+[19-Aug-2017 01:41:04] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:04] 5 positions imported
+[19-Aug-2017 01:41:17] import_feed_items called
+[19-Aug-2017 01:41:17] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:17] aviation-projects#0
+[19-Aug-2017 01:41:17] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:17] aviation-projects#1
+[19-Aug-2017 01:41:17] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:17] aviation-projects#2
+[19-Aug-2017 01:41:17] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:17] aviation-projects#3
+[19-Aug-2017 01:41:17] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:17] aviation-projects#4
+[19-Aug-2017 01:41:17] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:17] 5 positions imported
+[19-Aug-2017 01:41:18] import_feed_items called
+[19-Aug-2017 01:41:18] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:18] aviation-projects#0
+[19-Aug-2017 01:41:18] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:18] aviation-projects#1
+[19-Aug-2017 01:41:18] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:18] aviation-projects#2
+[19-Aug-2017 01:41:18] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:19] aviation-projects#3
+[19-Aug-2017 01:41:19] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:19] aviation-projects#4
+[19-Aug-2017 01:41:19] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:19] 5 positions imported
+[19-Aug-2017 01:41:33] import_feed_items called
+[19-Aug-2017 01:41:33] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:33] aviation-projects#0
+[19-Aug-2017 01:41:33] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:34] aviation-projects#1
+[19-Aug-2017 01:41:34] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:34] aviation-projects#2
+[19-Aug-2017 01:41:34] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:34] aviation-projects#3
+[19-Aug-2017 01:41:34] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:34] aviation-projects#4
+[19-Aug-2017 01:41:34] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:34] 5 positions imported
+[19-Aug-2017 01:41:49] import_feed_items called
+[19-Aug-2017 01:41:49] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:41:49] aviation-projects#0
+[19-Aug-2017 01:41:49] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:41:50] aviation-projects#1
+[19-Aug-2017 01:41:50] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:41:50] aviation-projects#2
+[19-Aug-2017 01:41:50] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:41:50] aviation-projects#3
+[19-Aug-2017 01:41:50] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:41:50] aviation-projects#4
+[19-Aug-2017 01:41:50] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:41:50] 5 positions imported
+[19-Aug-2017 01:43:49] import_feed_items called
+[19-Aug-2017 01:43:49] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:43:49] aviation-projects#0
+[19-Aug-2017 01:43:49] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:43:49] aviation-projects#1
+[19-Aug-2017 01:43:49] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:43:49] aviation-projects#2
+[19-Aug-2017 01:43:49] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:43:49] aviation-projects#3
+[19-Aug-2017 01:43:49] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:43:49] aviation-projects#4
+[19-Aug-2017 01:43:49] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:43:49] 5 positions imported
+[19-Aug-2017 01:45:50] import_feed_items called
+[19-Aug-2017 01:45:50] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:45:50] aviation-projects#0
+[19-Aug-2017 01:45:50] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:45:50] aviation-projects#1
+[19-Aug-2017 01:45:50] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:45:50] aviation-projects#2
+[19-Aug-2017 01:45:50] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:45:50] aviation-projects#3
+[19-Aug-2017 01:45:50] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:45:50] aviation-projects#4
+[19-Aug-2017 01:45:50] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:45:50] 5 positions imported
+[19-Aug-2017 01:47:24] import_feed_items called
+[19-Aug-2017 01:47:25] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:47:25] aviation-projects#0
+[19-Aug-2017 01:47:25] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:47:25] aviation-projects#1
+[19-Aug-2017 01:47:25] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:47:25] aviation-projects#2
+[19-Aug-2017 01:47:25] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:47:25] aviation-projects#3
+[19-Aug-2017 01:47:25] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:47:25] aviation-projects#4
+[19-Aug-2017 01:47:25] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:47:25] 5 positions imported
+[19-Aug-2017 01:47:39] import_feed_items called
+[19-Aug-2017 01:47:39] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:47:39] aviation-projects#0
+[19-Aug-2017 01:47:39] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:47:39] aviation-projects#1
+[19-Aug-2017 01:47:39] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:47:39] aviation-projects#2
+[19-Aug-2017 01:47:39] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:47:39] aviation-projects#3
+[19-Aug-2017 01:47:39] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:47:40] aviation-projects#4
+[19-Aug-2017 01:47:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:47:40] 5 positions imported
+[19-Aug-2017 01:47:54] import_feed_items called
+[19-Aug-2017 01:47:54] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:47:54] aviation-projects#0
+[19-Aug-2017 01:47:54] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:47:54] aviation-projects#1
+[19-Aug-2017 01:47:54] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:47:54] aviation-projects#2
+[19-Aug-2017 01:47:54] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:47:54] aviation-projects#3
+[19-Aug-2017 01:47:54] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:47:54] aviation-projects#4
+[19-Aug-2017 01:47:54] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:47:55] 5 positions imported
+[19-Aug-2017 01:48:25] import_feed_items called
+[19-Aug-2017 01:48:25] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:48:25] aviation-projects#0
+[19-Aug-2017 01:48:25] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:48:25] aviation-projects#1
+[19-Aug-2017 01:48:25] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:48:25] aviation-projects#2
+[19-Aug-2017 01:48:25] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:48:25] aviation-projects#3
+[19-Aug-2017 01:48:25] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:48:25] aviation-projects#4
+[19-Aug-2017 01:48:25] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:48:25] 5 positions imported
+[19-Aug-2017 01:48:40] import_feed_items called
+[19-Aug-2017 01:48:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:48:40] aviation-projects#0
+[19-Aug-2017 01:48:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:48:40] aviation-projects#1
+[19-Aug-2017 01:48:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:48:40] aviation-projects#2
+[19-Aug-2017 01:48:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:48:40] aviation-projects#3
+[19-Aug-2017 01:48:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:48:40] aviation-projects#4
+[19-Aug-2017 01:48:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:48:40] 5 positions imported
+[19-Aug-2017 01:50:40] import_feed_items called
+[19-Aug-2017 01:50:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:50:40] aviation-projects#0
+[19-Aug-2017 01:50:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:50:40] aviation-projects#1
+[19-Aug-2017 01:50:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:50:40] aviation-projects#2
+[19-Aug-2017 01:50:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:50:40] aviation-projects#3
+[19-Aug-2017 01:50:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:50:40] aviation-projects#4
+[19-Aug-2017 01:50:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:50:40] 5 positions imported
+[19-Aug-2017 01:52:40] import_feed_items called
+[19-Aug-2017 01:52:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:52:40] aviation-projects#0
+[19-Aug-2017 01:52:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:52:40] aviation-projects#1
+[19-Aug-2017 01:52:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:52:40] aviation-projects#2
+[19-Aug-2017 01:52:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:52:40] aviation-projects#3
+[19-Aug-2017 01:52:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:52:40] aviation-projects#4
+[19-Aug-2017 01:52:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:52:40] 5 positions imported
+[19-Aug-2017 01:54:40] import_feed_items called
+[19-Aug-2017 01:54:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:54:40] aviation-projects#0
+[19-Aug-2017 01:54:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:54:40] aviation-projects#1
+[19-Aug-2017 01:54:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:54:40] aviation-projects#2
+[19-Aug-2017 01:54:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:54:40] aviation-projects#3
+[19-Aug-2017 01:54:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:54:40] aviation-projects#4
+[19-Aug-2017 01:54:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:54:40] 5 positions imported
+[19-Aug-2017 01:56:40] import_feed_items called
+[19-Aug-2017 01:56:40] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:56:40] aviation-projects#0
+[19-Aug-2017 01:56:40] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:56:40] aviation-projects#1
+[19-Aug-2017 01:56:40] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:56:40] aviation-projects#2
+[19-Aug-2017 01:56:40] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:56:40] aviation-projects#3
+[19-Aug-2017 01:56:40] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:56:40] aviation-projects#4
+[19-Aug-2017 01:56:40] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:56:40] 5 positions imported
+[19-Aug-2017 01:57:26] import_feed_items called
+[19-Aug-2017 01:57:26] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:57:26] aviation-projects#0
+[19-Aug-2017 01:57:26] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:57:26] aviation-projects#1
+[19-Aug-2017 01:57:26] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:57:26] aviation-projects#2
+[19-Aug-2017 01:57:26] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:57:26] aviation-projects#3
+[19-Aug-2017 01:57:26] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:57:26] aviation-projects#4
+[19-Aug-2017 01:57:26] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:57:26] 5 positions imported
+[19-Aug-2017 01:57:41] import_feed_items called
+[19-Aug-2017 01:57:41] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:57:41] aviation-projects#0
+[19-Aug-2017 01:57:41] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:57:41] aviation-projects#1
+[19-Aug-2017 01:57:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:57:41] aviation-projects#2
+[19-Aug-2017 01:57:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:57:41] aviation-projects#3
+[19-Aug-2017 01:57:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:57:41] aviation-projects#4
+[19-Aug-2017 01:57:41] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:57:41] 5 positions imported
+[19-Aug-2017 01:59:41] import_feed_items called
+[19-Aug-2017 01:59:41] ================================================== aviation-projects =======================================================
+[19-Aug-2017 01:59:41] aviation-projects#0
+[19-Aug-2017 01:59:41] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 01:59:41] aviation-projects#1
+[19-Aug-2017 01:59:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 01:59:41] aviation-projects#2
+[19-Aug-2017 01:59:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 01:59:41] aviation-projects#3
+[19-Aug-2017 01:59:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 01:59:41] aviation-projects#4
+[19-Aug-2017 01:59:41] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 01:59:41] 5 positions imported
+[19-Aug-2017 02:01:42] import_feed_items called
+[19-Aug-2017 02:01:42] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:01:42] aviation-projects#0
+[19-Aug-2017 02:01:42] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:01:42] aviation-projects#1
+[19-Aug-2017 02:01:42] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:01:42] aviation-projects#2
+[19-Aug-2017 02:01:42] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:01:42] aviation-projects#3
+[19-Aug-2017 02:01:42] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:01:42] aviation-projects#4
+[19-Aug-2017 02:01:42] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:01:42] 5 positions imported
+[19-Aug-2017 02:03:23] import_feed_items called
+[19-Aug-2017 02:03:23] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:03:23] aviation-projects#0
+[19-Aug-2017 02:03:23] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:03:23] aviation-projects#1
+[19-Aug-2017 02:03:23] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:03:23] aviation-projects#2
+[19-Aug-2017 02:03:23] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:03:23] aviation-projects#3
+[19-Aug-2017 02:03:23] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:03:23] aviation-projects#4
+[19-Aug-2017 02:03:23] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:03:23] 5 positions imported
+[19-Aug-2017 02:03:43] import_feed_items called
+[19-Aug-2017 02:03:43] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:03:43] aviation-projects#0
+[19-Aug-2017 02:03:43] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:03:43] aviation-projects#1
+[19-Aug-2017 02:03:43] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:03:43] aviation-projects#2
+[19-Aug-2017 02:03:43] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:03:43] aviation-projects#3
+[19-Aug-2017 02:03:43] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:03:44] aviation-projects#4
+[19-Aug-2017 02:03:44] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:03:44] 5 positions imported
+[19-Aug-2017 02:05:44] import_feed_items called
+[19-Aug-2017 02:05:44] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:05:44] aviation-projects#0
+[19-Aug-2017 02:05:44] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:05:44] aviation-projects#1
+[19-Aug-2017 02:05:44] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:05:44] aviation-projects#2
+[19-Aug-2017 02:05:44] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:05:44] aviation-projects#3
+[19-Aug-2017 02:05:44] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:05:44] aviation-projects#4
+[19-Aug-2017 02:05:44] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:05:44] 5 positions imported
+[19-Aug-2017 02:07:45] import_feed_items called
+[19-Aug-2017 02:07:45] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:07:45] aviation-projects#0
+[19-Aug-2017 02:07:45] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:07:45] aviation-projects#1
+[19-Aug-2017 02:07:45] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:07:45] aviation-projects#2
+[19-Aug-2017 02:07:45] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:07:45] aviation-projects#3
+[19-Aug-2017 02:07:45] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:07:45] aviation-projects#4
+[19-Aug-2017 02:07:45] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:07:45] 5 positions imported
+[19-Aug-2017 02:18:22] import_feed_items called
+[19-Aug-2017 02:18:22] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:22] aviation-projects#0
+[19-Aug-2017 02:18:22] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:22] aviation-projects#1
+[19-Aug-2017 02:18:22] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:22] aviation-projects#2
+[19-Aug-2017 02:18:22] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:22] aviation-projects#3
+[19-Aug-2017 02:18:22] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:22] aviation-projects#4
+[19-Aug-2017 02:18:22] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:22] 5 positions imported
+[19-Aug-2017 02:18:30] import_feed_items called
+[19-Aug-2017 02:18:30] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:30] aviation-projects#0
+[19-Aug-2017 02:18:30] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:31] aviation-projects#1
+[19-Aug-2017 02:18:31] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:31] aviation-projects#2
+[19-Aug-2017 02:18:31] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:31] aviation-projects#3
+[19-Aug-2017 02:18:31] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:31] aviation-projects#4
+[19-Aug-2017 02:18:31] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:31] 5 positions imported
+[19-Aug-2017 02:18:38] import_feed_items called
+[19-Aug-2017 02:18:38] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:38] aviation-projects#0
+[19-Aug-2017 02:18:38] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:38] aviation-projects#1
+[19-Aug-2017 02:18:38] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:38] aviation-projects#2
+[19-Aug-2017 02:18:38] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:39] aviation-projects#3
+[19-Aug-2017 02:18:39] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:39] aviation-projects#4
+[19-Aug-2017 02:18:39] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:39] 5 positions imported
+[19-Aug-2017 02:18:41] import_feed_items called
+[19-Aug-2017 02:18:41] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:41] aviation-projects#0
+[19-Aug-2017 02:18:41] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:41] aviation-projects#1
+[19-Aug-2017 02:18:41] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:41] aviation-projects#2
+[19-Aug-2017 02:18:41] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:41] aviation-projects#3
+[19-Aug-2017 02:18:41] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:41] aviation-projects#4
+[19-Aug-2017 02:18:41] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:41] 5 positions imported
+[19-Aug-2017 02:18:42] import_feed_items called
+[19-Aug-2017 02:18:43] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:43] aviation-projects#0
+[19-Aug-2017 02:18:43] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:43] aviation-projects#1
+[19-Aug-2017 02:18:43] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:43] aviation-projects#2
+[19-Aug-2017 02:18:43] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:43] aviation-projects#3
+[19-Aug-2017 02:18:43] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:43] aviation-projects#4
+[19-Aug-2017 02:18:43] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:43] 5 positions imported
+[19-Aug-2017 02:18:56] import_feed_items called
+[19-Aug-2017 02:18:56] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:18:56] aviation-projects#0
+[19-Aug-2017 02:18:56] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:18:56] aviation-projects#1
+[19-Aug-2017 02:18:56] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:18:56] aviation-projects#2
+[19-Aug-2017 02:18:56] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:18:56] aviation-projects#3
+[19-Aug-2017 02:18:56] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:18:56] aviation-projects#4
+[19-Aug-2017 02:18:56] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:18:56] 5 positions imported
+[19-Aug-2017 02:20:59] import_feed_items called
+[19-Aug-2017 02:20:59] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:20:59] aviation-projects#0
+[19-Aug-2017 02:20:59] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:20:59] aviation-projects#1
+[19-Aug-2017 02:20:59] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:20:59] aviation-projects#2
+[19-Aug-2017 02:20:59] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:21:00] aviation-projects#3
+[19-Aug-2017 02:21:00] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:21:00] aviation-projects#4
+[19-Aug-2017 02:21:00] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:21:00] 5 positions imported
+[19-Aug-2017 02:22:58] import_feed_items called
+[19-Aug-2017 02:22:58] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:22:58] aviation-projects#0
+[19-Aug-2017 02:22:58] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:22:58] aviation-projects#1
+[19-Aug-2017 02:22:58] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:22:58] aviation-projects#2
+[19-Aug-2017 02:22:58] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:22:58] aviation-projects#3
+[19-Aug-2017 02:22:58] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:22:58] aviation-projects#4
+[19-Aug-2017 02:22:58] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:22:58] 5 positions imported
+[19-Aug-2017 02:24:59] import_feed_items called
+[19-Aug-2017 02:24:59] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:24:59] aviation-projects#0
+[19-Aug-2017 02:24:59] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:24:59] aviation-projects#1
+[19-Aug-2017 02:24:59] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:24:59] aviation-projects#2
+[19-Aug-2017 02:24:59] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:24:59] aviation-projects#3
+[19-Aug-2017 02:24:59] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:24:59] aviation-projects#4
+[19-Aug-2017 02:24:59] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:24:59] 5 positions imported
+[19-Aug-2017 02:27:00] import_feed_items called
+[19-Aug-2017 02:27:00] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:27:00] aviation-projects#0
+[19-Aug-2017 02:27:00] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:27:00] aviation-projects#1
+[19-Aug-2017 02:27:00] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:27:00] aviation-projects#2
+[19-Aug-2017 02:27:00] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:27:00] aviation-projects#3
+[19-Aug-2017 02:27:00] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 0[19-Aug-2017 02:39:09] 163 positions deleted
+27:00] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:27:00] 5 positions imported
+[19-Aug-2017 02:29:01] import_feed_items called
+[19-Aug-2017 02:29:01] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:29:01] aviation-projects#0
+[19-Aug-2017 02:29:01] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:29:01] aviation-projects#1
+[19-Aug-2017 02:29:01] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:29:01] aviation-projects#2
+[19-Aug-2017 02:29:01] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:29:01] aviation-projects#3
+[19-Aug-2017 02:29:01] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:29:01] aviation-projects#4
+[19-Aug-2017 02:29:01] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:29:01] 5 positions imported
+[19-Aug-2017 02:31:02] import_feed_items called
+[19-Aug-2017 02:31:02] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:31:02] aviation-projects#0
+[19-Aug-2017 02:31:02] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:31:02] aviation-projects#1
+[19-Aug-2017 02:31:02] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:31:02] aviation-projects#2
+[19-Aug-2017 02:31:02] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:31:02] aviation-projects#3
+[19-Aug-2017 02:31:02] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:31:02] aviation-projects#4
+[19-Aug-2017 02:31:02] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:31:02] 5 positions imported
+[19-Aug-2017 02:33:03] import_feed_items called
+[19-Aug-2017 02:33:03] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:33:03] aviation-projects#0
+[19-Aug-2017 02:33:03] content not listed. Title Avionics Technician - NTM Aviation
+[19-Aug-2017 02:33:03] aviation-projects#1
+[19-Aug-2017 02:33:03] content To maintain aircraft in compliance withour standards and the standards of the host country where they work.. Title Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:33:03] aviation-projects#2
+[19-Aug-2017 02:33:03] content not listed. Title Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:33:03] aviation-projects#3
+[19-Aug-2017 02:33:03] content not listed. Title Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:33:03] aviation-projects#4
+[19-Aug-2017 02:33:03] content not listed. Title Pilot - NTM Aviation
+[19-Aug-2017 02:33:03] 5 positions imported
+[19-Aug-2017 02:36:26] import_feed_items called
+[19-Aug-2017 02:36:26] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:36:26] aviation-projects# 0Avionics Technician - NTM Aviation
+[19-Aug-2017 02:36:26] aviation-projects# 1Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:36:26] aviation-projects# 2Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:36:26] aviation-projects# 3Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:36:26] aviation-projects# 4Pilot - NTM Aviation
+[19-Aug-2017 02:36:26] Import finished. total positions imported - 5
+[19-Aug-2017 02:36:28] import_feed_items called
+[19-Aug-2017 02:36:28] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:36:28] aviation-projects# 0Avionics Technician - NTM Aviation
+[19-Aug-2017 02:36:28] aviation-projects# 1Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:36:28] aviation-projects# 2Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:36:28] aviation-projects# 3Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:36:28] aviation-projects# 4Pilot - NTM Aviation
+[19-Aug-2017 02:36:28] Import finished. total positions imported - 5
+[19-Aug-2017 02:36:34] import_feed_items called
+[19-Aug-2017 02:36:34] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:36:34] aviation-projects# 0Avionics Technician - NTM Aviation
+[19-Aug-2017 02:36:34] aviation-projects# 1Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:36:34] aviation-projects# 2Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:36:34] aviation-projects# 3Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:36:34] aviation-projects# 4Pilot - NTM Aviation
+[19-Aug-2017 02:36:34] Import finished. total positions imported - 5
+[19-Aug-2017 02:36:36] import_feed_items called
+[19-Aug-2017 02:36:36] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:36:36] aviation-projects# 0Avionics Technician - NTM Aviation
+[19-Aug-2017 02:36:36] aviation-projects# 1Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:36:36] aviation-projects# 2Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:36:37] aviation-projects# 3Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:36:37] aviation-projects# 4Pilot - NTM Aviation
+[19-Aug-2017 02:36:37] Import finished. total positions imported - 5
+[19-Aug-2017 02:36:51] import_feed_items called
+[19-Aug-2017 02:36:51] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:36:51] aviation-projects# 0Avionics Technician - NTM Aviation
+[19-Aug-2017 02:36:51] aviation-projects# 1Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:36:52] aviation-projects# 2Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:36:52] aviation-projects# 3Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:36:52] aviation-projects# 4Pilot - NTM Aviation
+[19-Aug-2017 02:36:52] Import finished. total positions imported - 5
+[19-Aug-2017 02:39:09] 220 positions deleted
+[19-Aug-2017 02:39:10] 0 positions deleted
+[19-Aug-2017 02:39:25] 0 positions deleted
+[19-Aug-2017 02:40:06] import_feed_items called
+[19-Aug-2017 02:40:06] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:06] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:06] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:06] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:06] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:06] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:06] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:09] import_feed_items called
+[19-Aug-2017 02:40:09] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:09] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:09] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:09] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:09] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:09] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:09] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:10] import_feed_items called
+[19-Aug-2017 02:40:10] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:10] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:10] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:10] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:10] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:10] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:10] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:25] import_feed_items called
+[19-Aug-2017 02:40:25] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:25] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:25] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:25] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:25] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:25] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:25] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:31] import_feed_items called
+[19-Aug-2017 02:40:31] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:31] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:32] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:32] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:32] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:32] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:32] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:33] import_feed_items called
+[19-Aug-2017 02:40:33] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:33] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:33] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:33] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:33] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:33] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:33] Import finished. total positions imported - 5
+[19-Aug-2017 02:40:48] import_feed_items called
+[19-Aug-2017 02:40:48] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:40:48] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:40:48] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:40:48] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:40:48] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:40:48] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:40:48] Import finished. total positions imported - 5
+[19-Aug-2017 02:41:28] 35 positions deleted
+[19-Aug-2017 02:41:29] 0 positions deleted
+[19-Aug-2017 02:41:30] 0 positions deleted
+[19-Aug-2017 02:41:45] 0 positions deleted
+[19-Aug-2017 02:41:50] 0 positions deleted
+[19-Aug-2017 02:41:51] 0 positions deleted
+[19-Aug-2017 02:42:00] import_feed_items called
+[19-Aug-2017 02:42:00] ================================================== aviation-projects =======================================================
+[19-Aug-2017 02:42:00] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 02:42:00] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 02:42:00] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 02:42:00] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 02:42:00] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 02:42:00] Import finished. total positions imported - 5
+[19-Aug-2017 02:42:01] import_feed_items called
+[19-Aug-2017 02:42:01] Import feed already run
+[19-Aug-2017 02:42:11] import_feed_items called
+[19-Aug-2017 02:42:11] Import feed already run
+[19-Aug-2017 02:42:13] import_feed_items called
+[19-Aug-2017 02:42:13] Import feed already run
+[19-Aug-2017 02:42:28] import_feed_items called
+[19-Aug-2017 02:42:28] Import feed already run
+[19-Aug-2017 02:42:35] import_feed_items called
+[19-Aug-2017 02:42:35] Import feed already run
+[19-Aug-2017 02:42:36] import_feed_items called
+[19-Aug-2017 02:42:36] Import feed already run
+[19-Aug-2017 02:42:51] import_feed_items called
+[19-Aug-2017 02:42:51] Import feed already run
+[19-Aug-2017 02:43:06] import_feed_items called
+[19-Aug-2017 02:43:06] Import feed already run
+[19-Aug-2017 02:43:21] import_feed_items called
+[19-Aug-2017 02:43:21] Import feed already run
+[19-Aug-2017 02:43:36] import_feed_items called
+[19-Aug-2017 02:43:36] Import feed already run
+[19-Aug-2017 02:43:51] import_feed_items called
+[19-Aug-2017 02:43:51] Import feed already run
+[19-Aug-2017 02:44:06] import_feed_items called
+[19-Aug-2017 02:44:06] Import feed already run
+[19-Aug-2017 02:44:21] import_feed_items called
+[19-Aug-2017 02:44:21] Import feed already run
+[19-Aug-2017 02:44:36] import_feed_items called
+[19-Aug-2017 02:44:36] Import feed already run
+[19-Aug-2017 02:44:52] import_feed_items called
+[19-Aug-2017 02:44:52] Import feed already run
+[19-Aug-2017 02:46:53] import_feed_items called
+[19-Aug-2017 02:46:53] Import feed already run
+[19-Aug-2017 02:48:54] import_feed_items called
+[19-Aug-2017 02:48:54] Import feed already run
+[19-Aug-2017 02:50:55] import_feed_items called
+[19-Aug-2017 02:50:55] Import feed already run
+[19-Aug-2017 02:52:55] import_feed_items called
+[19-Aug-2017 02:52:55] Import feed already run
+[19-Aug-2017 02:54:56] import_feed_items called
+[19-Aug-2017 02:54:56] Import feed already run
+[19-Aug-2017 03:16:57] 5 positions deleted
+[19-Aug-2017 03:16:57] 0 positions deleted
+[19-Aug-2017 03:17:01] 0 positions deleted
+[19-Aug-2017 03:17:02] 0 positions deleted
+[19-Aug-2017 03:17:17] 0 positions deleted
+[19-Aug-2017 03:17:20] import_feed_items called
+[19-Aug-2017 03:17:20] ================================================== aviation-projects =======================================================
+[19-Aug-2017 03:17:20] aviation-projects# 0 Avionics Technician - NTM Aviation
+[19-Aug-2017 03:17:20] aviation-projects# 1 Aircraft Maintenance Specialists - NTM Aviation
+[19-Aug-2017 03:17:21] aviation-projects# 2 Fixed Wing Pilots - NTM Aviation
+[19-Aug-2017 03:17:21] aviation-projects# 3 Rotor Wing PIlots - NTM Aviation
+[19-Aug-2017 03:17:21] aviation-projects# 4 Pilot - NTM Aviation
+[19-Aug-2017 03:17:21] ================================================== business-and-administration =======================================================
+[19-Aug-2017 03:17:21] business-and-administration# 0 Ministry Hub Liason
+[19-Aug-2017 03:17:21] business-and-administration# 1 Bookkeeper and Liaison w/ Partner orgs
+[19-Aug-2017 03:17:21] business-and-administration# 2 Mission Home Host and Liaison w/ Partner orgs
+[19-Aug-2017 03:17:21] business-and-administration# 3 Accountant and Liaison w/ Partner orgs
+[19-Aug-2017 03:17:21] business-and-administration# 4 Office Clerk
+[19-Aug-2017 03:17:21] business-and-administration# 5 Retirement Office Coordinator
+[19-Aug-2017 03:17:21] business-and-administration# 6 Payroll Clerk
+[19-Aug-2017 03:17:21] business-and-administration# 7 Government Representative
+[19-Aug-2017 03:17:21] business-and-administration# 8 Information Manager
+[19-Aug-2017 03:17:21] business-and-administration# 9 Accounts Payable
+[19-Aug-2017 03:17:21] business-and-administration# 10 Accounts Receivable Person
+[19-Aug-2017 03:17:21] business-and-administration# 11 Payroll Person
+[19-Aug-2017 03:17:21] business-and-administration# 12 Accounts Payable
+[19-Aug-2017 03:17:21] business-and-administration# 13 Business Manager
+[19-Aug-2017 03:17:21] business-and-administration# 14 Service Team Point Person
+[19-Aug-2017 03:17:21] business-and-administration# 15 Accountant
+[19-Aug-2017 03:17:21] business-and-administration# 16 Guest Home Host/Hostess
+[19-Aug-2017 03:17:21] business-and-administration# 17 Field Business Administrator
+[19-Aug-2017 03:17:21] business-and-administration# 18 Bookkeeper
+[19-Aug-2017 03:17:21] business-and-administration# 19 Bookkeeper
+[19-Aug-2017 03:17:21] business-and-administration# 20 Receptionist
+[19-Aug-2017 03:17:21] business-and-administration# 21 Estate Planning Director
+[19-Aug-2017 03:17:21] ================================================== communications =======================================================
+[19-Aug-2017 03:17:21] communications# 0 Graphic Design and Material Development
+[19-Aug-2017 03:17:21] communications# 1 Digital Asset Manager
+[19-Aug-2017 03:17:21] communications# 2 Mission Coach
+[19-Aug-2017 03:17:21] communications# 3 Historian/Librarian
+[19-Aug-2017 03:17:21] communications# 4 Communications Manager
+[19-Aug-2017 03:17:21] communications# 5 Graphic Designer
+[19-Aug-2017 03:17:21] communications# 6 Church liaison team (Anglophone)
+[19-Aug-2017 03:17:21] communications# 7 Church liaison team (Francophone)
+[19-Aug-2017 03:17:21] communications# 8 Representative
+[19-Aug-2017 03:17:21] communications# 9 Writer
+[19-Aug-2017 03:17:21] ================================================== construction =======================================================
+[19-Aug-2017 03:17:21] construction# 0 Grounds Maintenance Manager
+[19-Aug-2017 03:17:21] construction# 1 Construction and Maintenance
+[19-Aug-2017 03:17:21] construction# 2 Garage Manager-Mechanic
+[19-Aug-2017 03:17:22] construction# 3 Grounds Maintenance Manager
+[19-Aug-2017 03:17:22] construction# 4 Construction/Maintenance
+[19-Aug-2017 03:17:22] construction# 5 Plumber
+[19-Aug-2017 03:17:22] construction# 6 Groundskeeper
+[19-Aug-2017 03:17:22] construction# 7 Air Conditioning Mechanic
+[19-Aug-2017 03:17:22] construction# 8 General Grounds Maintenance
+[19-Aug-2017 03:17:22] construction# 9 General Mechanic
+[19-Aug-2017 03:17:22] construction# 10 General Maintenance Construction
+[19-Aug-2017 03:17:22] construction# 11 Maintenance Manager
+[19-Aug-2017 03:17:22] construction# 12 Electrician
+[19-Aug-2017 03:17:22] construction# 13 Finish Carpenter
+[19-Aug-2017 03:17:22] construction# 14 Electrician
+[19-Aug-2017 03:17:22] construction# 15 Maintenance
+[19-Aug-2017 03:17:22] construction# 16 Physical Plant Manager
+[19-Aug-2017 03:17:22] construction# 17 Construction / Maintenance
+[19-Aug-2017 03:17:22] construction# 18 Mechanic
+[19-Aug-2017 03:17:22] construction# 19 Plumber
+[19-Aug-2017 03:17:22] construction# 20 Construction and Maintenance
+[19-Aug-2017 03:17:22] construction# 21 Maintenance
+[19-Aug-2017 03:17:22] ================================================== teaching-elementary =======================================================
+[19-Aug-2017 03:17:22] teaching-elementary# 0 Teacher Music Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 1 Teachers Primary
+[19-Aug-2017 03:17:22] teaching-elementary# 2 ELL Coordinator
+[19-Aug-2017 03:17:22] teaching-elementary# 3 Teacher Special Education
+[19-Aug-2017 03:17:22] teaching-elementary# 4 Teacher&#039;s Aide Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 5 Teacher ESL
+[19-Aug-2017 03:17:22] teaching-elementary# 6 Teacher Upper Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 7 Teacher Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 8 Teacher Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 9 Teachers Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 10 Teacher Elementary
+[19-Aug-2017 03:17:22] teaching-elementary# 11 Teacher Elementary Grades 1,3,4
+[19-Aug-2017 03:17:23] teaching-elementary# 12 Teacher Computer
+[19-Aug-2017 03:17:23] teaching-elementary# 13 Teacher Lower Elementary
+[19-Aug-2017 03:17:23] teaching-elementary# 14 Teacher Computer
+[19-Aug-2017 03:17:23] teaching-elementary# 15 Teacher Special Education
+[19-Aug-2017 03:17:23] teaching-elementary# 16 Teacher Elementary
+[19-Aug-2017 03:17:23] teaching-elementary# 17 Teachers Elementary
+[19-Aug-2017 03:17:23] teaching-elementary# 18 Teacher Elementary
+[19-Aug-2017 03:17:23] teaching-elementary# 19 Teacher Mathematics
+[19-Aug-2017 03:17:23] teaching-elementary# 20 Teacher Music
+[19-Aug-2017 03:17:23] teaching-elementary# 21 Teachers Elementary
+[19-Aug-2017 03:17:23] teaching-elementary# 22 Teacher Home School
+[19-Aug-2017 03:17:23] ================================================== teaching-secondary =======================================================
+[19-Aug-2017 03:17:23] teaching-secondary# 0 Teacher Choral
+[19-Aug-2017 03:17:23] teaching-secondary# 1 Teacher Special Education
+[19-Aug-2017 03:17:23] teaching-secondary# 2 Teacher Bible
+[19-Aug-2017 03:17:23] teaching-secondary# 3 Teacher Grade 6
+[19-Aug-2017 03:17:23] teaching-secondary# 4 Band Director
+[19-Aug-2017 03:17:23] teaching-secondary# 5 Teacher Spanish
+[19-Aug-2017 03:17:23] teaching-secondary# 6 Teacher Speech
+[19-Aug-2017 03:17:23] teaching-secondary# 7 Educational Tech Coach
+[19-Aug-2017 03:17:23] teaching-secondary# 8 Guidance Counselor
+[19-Aug-2017 03:17:23] teaching-secondary# 9 Teacher Special Education
+[19-Aug-2017 03:17:23] teaching-secondary# 10 Teacher Social Studies
+[19-Aug-2017 03:17:23] teaching-secondary# 11 ELL Coordinator
+[19-Aug-2017 03:17:23] teaching-secondary# 12 Teacher Music
+[19-Aug-2017 03:17:23] teaching-secondary# 13 Teacher ESL
+[19-Aug-2017 03:17:23] teaching-secondary# 14 Teacher Social Studies
+[19-Aug-2017 03:17:23] teaching-secondary# 15 Teacher History
+[19-Aug-2017 03:17:23] teaching-secondary# 16 Teacher English
+[19-Aug-2017 03:17:23] teaching-secondary# 17 Teacher Social Studies
+[19-Aug-2017 03:17:23] teaching-secondary# 18 Teacher US History
+[19-Aug-2017 03:17:23] teaching-secondary# 19 Teacher Home Economics
+[19-Aug-2017 03:17:23] teaching-secondary# 20 Teacher Bible
+[19-Aug-2017 03:17:24] teaching-secondary# 21 Teacher Secondary Math
+[19-Aug-2017 03:17:24] teaching-secondary# 22 Teacher Math
+[19-Aug-2017 03:17:24] teaching-secondary# 23 Teacher English
+[19-Aug-2017 03:17:24] teaching-secondary# 24 Teacher Math
+[19-Aug-2017 03:17:24] teaching-secondary# 25 Teacher Secondary Band
+[19-Aug-2017 03:17:24] teaching-secondary# 26 Teacher Religious Studies
+[19-Aug-2017 03:17:24] teaching-secondary# 27 Teacher Science
+[19-Aug-2017 03:17:24] teaching-secondary# 28 Teacher ICT/Computers
+[19-Aug-2017 03:17:24] teaching-secondary# 29 Teacher Math
+[19-Aug-2017 03:17:24] teaching-secondary# 30 Teacher English
+[19-Aug-2017 03:17:24] teaching-secondary# 31 Teacher English Secondary
+[19-Aug-2017 03:17:24] teaching-secondary# 32 Teacher World Languages
+[19-Aug-2017 03:17:24] teaching-secondary# 33 Teacher Science
+[19-Aug-2017 03:17:24] teaching-secondary# 34 Teacher English
+[19-Aug-2017 03:17:24] teaching-secondary# 35 Teacher HS Math
+[19-Aug-2017 03:17:24] teaching-secondary# 36 Teacher High School Science
+[19-Aug-2017 03:17:24] teaching-secondary# 37 Teacher MS/HS Science
+[19-Aug-2017 03:17:24] teaching-secondary# 38 Secondary Teacher Computer
+[19-Aug-2017 03:17:24] teaching-secondary# 39 Teacher Science
+[19-Aug-2017 03:17:24] teaching-secondary# 40 Teacher English
+[19-Aug-2017 03:17:24] teaching-secondary# 41 Teacher Art
+[19-Aug-2017 03:17:24] teaching-secondary# 42 Secondary Teacher Computer
+[19-Aug-2017 03:17:24] teaching-secondary# 43 PE Teacher Middle School
+[19-Aug-2017 03:17:24] teaching-secondary# 44 PE Teacher High School
+[19-Aug-2017 03:17:24] teaching-secondary# 45 Teacher Special Education
+[19-Aug-2017 03:17:24] teaching-secondary# 46 Foreign Language Teachers
+[19-Aug-2017 03:17:24] teaching-secondary# 47 Secondary Language Arts Teacher (Part-Time)
+[19-Aug-2017 03:17:24] teaching-secondary# 48 Middle School English Language Teacher (ESL)
+[19-Aug-2017 03:17:24] teaching-secondary# 49 Teacher Art and Drama
+[19-Aug-2017 03:17:24] teaching-secondary# 50 Teacher High School Math
+[19-Aug-2017 03:17:25] teaching-secondary# 51 Teacher High School History
+[19-Aug-2017 03:17:25] teaching-secondary# 52 Teacher Middle School
+[19-Aug-2017 03:17:25] teaching-secondary# 53 Teacher Music
+[19-Aug-2017 03:17:25] teaching-secondary# 54 Teacher Math and Science
+[19-Aug-2017 03:17:25] ================================================== education-administration-and-staff =======================================================
+[19-Aug-2017 03:17:25] education-administration-and-staff# 0 Director of School
+[19-Aug-2017 03:17:25] education-administration-and-staff# 1 Deputy Superintendent of Operations
+[19-Aug-2017 03:17:25] education-administration-and-staff# 2 Vice Principal Elementary
+[19-Aug-2017 03:17:25] education-administration-and-staff# 3 Vice Principal Secondary
+[19-Aug-2017 03:17:25] education-administration-and-staff# 4 Deputy Superintendent of Academics
+[19-Aug-2017 03:17:25] education-administration-and-staff# 5 HR Support
+[19-Aug-2017 03:17:25] education-administration-and-staff# 6 Principal High School
+[19-Aug-2017 03:17:25] education-administration-and-staff# 7 Administrative Assistant
+[19-Aug-2017 03:17:25] education-administration-and-staff# 8 Activities Coordinator
+[19-Aug-2017 03:17:25] education-administration-and-staff# 9 Curriculum &amp; Instruction Administrative Assistant
+[19-Aug-2017 03:17:25] education-administration-and-staff# 10 HR Coordinator
+[19-Aug-2017 03:17:25] education-administration-and-staff# 11 Principal
+[19-Aug-2017 03:17:25] education-administration-and-staff# 12 Principal Secondary
+[19-Aug-2017 03:17:25] education-administration-and-staff# 13 Childcare Coordinator
+[19-Aug-2017 03:17:25] education-administration-and-staff# 14 Ladies Dean
+[19-Aug-2017 03:17:25] education-administration-and-staff# 15 Childcare Coordinator
+[19-Aug-2017 03:17:25] education-administration-and-staff# 16 Bible Teacher
+[19-Aug-2017 03:17:25] education-administration-and-staff# 17 Secondary Principal
+[19-Aug-2017 03:17:25] education-administration-and-staff# 18 School Secretary
+[19-Aug-2017 03:17:25] education-administration-and-staff# 19 Teacher and Minister
+[19-Aug-2017 03:17:25] ================================================== other-education =======================================================
+[19-Aug-2017 03:17:25] other-education# 0 Teacher Special Education
+[19-Aug-2017 03:17:25] other-education# 1 Library Cataloger
+[19-Aug-2017 03:17:25] other-education# 2 Speech Therapist
+[19-Aug-2017 03:17:26] other-education# 3 Teacher Special Education
+[19-Aug-2017 03:17:26] other-education# 4 Library Director
+[19-Aug-2017 03:17:26] other-education# 5 Chaplain
+[19-Aug-2017 03:17:26] other-education# 6 CHILD CARE WORKER
+[19-Aug-2017 03:17:26] other-education# 7 Student and Family Ministries Coordinator
+[19-Aug-2017 03:17:26] other-education# 8 Speech and Language Pathologist
+[19-Aug-2017 03:17:26] other-education# 9 Academic Guidance Counselor
+[19-Aug-2017 03:17:26] other-education# 10 Educational Psychologist
+[19-Aug-2017 03:17:26] other-education# 11 Teacher Yearbook
+[19-Aug-2017 03:17:26] other-education# 12 Education and IT Director
+[19-Aug-2017 03:17:26] other-education# 13 Boarding Home Parents
+[19-Aug-2017 03:17:26] other-education# 14 Boarding Home Parents
+[19-Aug-2017 03:17:26] other-education# 15 Teacher NILD
+[19-Aug-2017 03:17:26] other-education# 16 Education Consultants
+[19-Aug-2017 03:17:26] other-education# 17 Teacher Special Education
+[19-Aug-2017 03:17:26] other-education# 18 Homeschool Educational Consultant
+[19-Aug-2017 03:17:26] other-education# 19 Educational Support Personnel (Homeschool Aide--Support Centers)
+[19-Aug-2017 03:17:26] other-education# 20 Gifted and Talented Coordinator/Teacher
+[19-Aug-2017 03:17:26] other-education# 21 Mother Tongue Class Teachers
+[19-Aug-2017 03:17:26] other-education# 22 General/Dorm Helpers
+[19-Aug-2017 03:17:26] other-education# 23 Academic Administrator
+[19-Aug-2017 03:17:26] other-education# 24 LD Therapist
+[19-Aug-2017 03:17:26] other-education# 25 Teacher Elementary Art
+[19-Aug-2017 03:17:26] other-education# 26 Special Education Therapist
+[19-Aug-2017 03:17:26] other-education# 27 Teacher Music
+[19-Aug-2017 03:17:26] ================================================== evangelism-and-church-planting =======================================================
+[19-Aug-2017 03:17:26] evangelism-and-church-planting# 0 Church Planters
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 1 Church Planters
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 2 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 3 Church Planters
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 4 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 5 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 6 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 7 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 8 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 9 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 10 Bible Translator
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 11 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 12 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 13 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 14 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 15 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 16 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 17 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 18 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 19 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 20 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 21 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 22 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 23 Church Planter
+[19-Aug-2017 03:17:27] evangelism-and-church-planting# 24 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 25 Teacher / Discipler
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 26 Missionary Trainer
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 27 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 28 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 29 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 30 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 31 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 32 Bible Translator
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 33 Church Planter
+[19-Aug-2017 03:17:28] evangelism-and-church-planting# 34 Church Planter
+[19-Aug-2017 03:17:28] ================================================== food-service =======================================================
+[19-Aug-2017 03:17:28] food-service# 0 Assistant Cook
+[19-Aug-2017 03:17:28] food-service# 1 Cook/Chef
+[19-Aug-2017 03:17:28] food-service# 2 Cook/Cook Couple
+[19-Aug-2017 03:17:28] food-service# 3 Cook/Chef
+[19-Aug-2017 03:17:28] ================================================== health-care =======================================================
+[19-Aug-2017 03:17:28] health-care# 0 Nurse
+[19-Aug-2017 03:17:28] health-care# 1 Doctor
+[19-Aug-2017 03:17:28] health-care# 2 Health Services Director
+[19-Aug-2017 03:17:28] health-care# 3 Nurse
+[19-Aug-2017 03:17:28] health-care# 4 School Nurse
+[19-Aug-2017 03:17:28] health-care# 5 Personal Care Nurse RN
+[19-Aug-2017 03:17:28] health-care# 6 Nurse
+[19-Aug-2017 03:17:28] health-care# 7 Dental Hygienist
+[19-Aug-2017 03:17:28] health-care# 8 Dentist
+[19-Aug-2017 03:17:29] health-care# 9 Personal Care Attendant
+[19-Aug-2017 03:17:29] ================================================== hospitality =======================================================
+[19-Aug-2017 03:17:29] hospitality# 0 Guest House Managers
+[19-Aug-2017 03:17:29] hospitality# 1 Boarding Home Parents
+[19-Aug-2017 03:17:29] hospitality# 2 Guest Home Host/Hostess
+[19-Aug-2017 03:17:29] ================================================== law =======================================================
+[19-Aug-2017 03:17:29] law# 0 Lawyer
+[19-Aug-2017 03:17:29] law# 1 Paralegal
+[19-Aug-2017 03:17:29] ================================================== technology =======================================================
+[19-Aug-2017 03:17:29] technology# 0 Computer Software Consultant
+[19-Aug-2017 03:17:29] technology# 1 IT Tech &amp; Web Design
+[19-Aug-2017 03:17:29] technology# 2 Computer Network and Systems Administrator
+[19-Aug-2017 03:17:29] technology# 3 Senior System and Network Administrator
+[19-Aug-2017 03:17:29] technology# 4 Director of Service Support
+[19-Aug-2017 03:17:29] technology# 5 Director of IT Operations
+[19-Aug-2017 03:17:29] technology# 6 Hardware Technician
+[19-Aug-2017 03:17:29] technology# 7 IT Network Administrator
+[19-Aug-2017 03:17:29] technology# 8 IT Assistant
+[19-Aug-2017 03:17:29] technology# 9 Computer Network and Systems Administrator
+[19-Aug-2017 03:17:29] technology# 10 Software Development Team Members
+[19-Aug-2017 03:17:29] technology# 11 Information Manager
+[19-Aug-2017 03:17:29] technology# 12 IT Positions
+[19-Aug-2017 03:17:29] technology# 13 Telephone/Computer/WiFi Support Technician
+[19-Aug-2017 03:17:29] technology# 14 Computer Network and Systems Administrator
+[19-Aug-2017 03:17:29] technology# 15 IT Help (Internet / Computer Tech)
+[19-Aug-2017 03:17:29] technology# 16 Computer and Network Administrator
+[19-Aug-2017 03:17:29] technology# 17 Computer Programmer
+[19-Aug-2017 03:17:29] ================================================== training =======================================================
+[19-Aug-2017 03:17:29] training# 0 Missionary Trainer
+[19-Aug-2017 03:17:29] Import finished. total positions imported - 258
+[19-Aug-2017 03:17:32] import_feed_items called
+[19-Aug-2017 03:17:32] Import feed already run
