@@ -25,7 +25,6 @@ function my_activation() {
 }
 
 add_action('import_hourly_event', 'import_positions');
-
 register_deactivation_hook(__FILE__, 'my_deactivation');
 
 function my_deactivation() {
@@ -89,6 +88,13 @@ function import_positions()
 						$striped_content = str_replace($strip_tags, '', $content); 
 						}
 					else {$striped_content = 'not listed'; }	
+
+					$degree = $item->get_item_tags($xmlns,'degree')[0]['data'];
+					if ( !empty($degree)) {
+						$striped_degree = str_replace('Ethnos360 Training', 'Ethnos Training', $degree); 
+						}
+					else {$striped_degree = ''; }
+
 								
 					$post = array(
 						'post_content'  => $content, 
@@ -112,7 +118,7 @@ function import_positions()
 					'position_priority'         => $item->get_item_tags($xmlns,'priority')[0]['data'], 
 					'position_date_needed'      => $item->get_item_tags($xmlns,'date_needed')[0]['data'], 
 					'position_responsibilities' => $striped_content, 
-					'position_degree'           => $item->get_item_tags($xmlns,'degree')[0]['data'], 
+					'position_degree'           => $striped_degree, 
 					'position_skills'           => $item->get_item_tags($xmlns,'skill')[0]['data'], 
 					'position_experience'       => $item->get_item_tags($xmlns,'experience')[0]['data'], 
 					'position_comments'         => $item->get_item_tags($xmlns,'comment')[0]['data'],
